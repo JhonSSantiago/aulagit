@@ -51,6 +51,14 @@
 	$ git clone link_do_repositório
 ````
 
+#### Resolvendo conflitos no GitHub:
+
+##### Esse comando mostra o arquivo e onde esta o conflito:
+
+````bash
+	$ git pull origin master
+````
+
 
 
 **-->** *Jhonatan Santiago*
