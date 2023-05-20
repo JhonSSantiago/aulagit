@@ -61,6 +61,10 @@ Ehn(user-form): inclui validação de campos
 ````bash
 	$ git push -u origin <ramo>
 ````
+#### Exibe as alterações nos arquivos
+````bash
+	$ git diff
+````
 
 ##### Obtendo um Remote Repository use o comando:
 ````bash
